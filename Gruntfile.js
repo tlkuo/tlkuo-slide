@@ -108,6 +108,7 @@ module.exports = function(grunt) {
 				'lib/**',
 				'images/**',
 				'plugin/**',
+				'slides/**',
 				'**.md'
 			]
 		},
@@ -126,10 +127,10 @@ module.exports = function(grunt) {
 				tasks: 'css-core'
 			},
 			html: {
-				files: [ '*.html']
+				files: [ '*.html', 'slides/**.html' ]
 			},
 			markdown: {
-				files: [ '*.md' ]
+				files: [ '*.md', 'slides/**.md' ]
 			},
 			options: {
 				livereload: true
