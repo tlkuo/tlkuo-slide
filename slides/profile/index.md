@@ -25,123 +25,38 @@ Note:
 
 
 
-中學時期 @ School
+客戶端應用開發部 @ D-Link
 -----
-> "老師並不聰明，只是早你們一點學會"
-> <br/>
-> by 數學老師
-
-- 接觸第一個程式語言
-- 完成第一個九九乘法表
+- 前端 jQuery / RequireJS
+- 後端 PHP Symfony Framework
 
 Note:
-- 許多事情其實不難，只是懂與不懂 ( 0 和 1 ) 的差別
-- 延平中學電腦課
-- 記事本寫網站
-- Visual Basic
-
-
-班級 / 社團 網站
------
-> 靜態網站 -> 全動畫網站 -> 互動式表單
-
-- HTML <!-- .element: class="fragment fade-down" -->
-- FrontPage / Dreamweaver <!-- .element: class="fragment fade-down" -->
-- Flash 5 <!-- .element: class="fragment fade-down" -->
-
-Note:
-- [訐譙龍](https://zh.wikipedia.org/wiki/訐譙龍) Flash 網路動畫
-- [阿貴](https://zh.wikipedia.org/wiki/阿貴) Flash 網路動畫
-- 開心農場 火紅的 Flash 遊戲
-- 可惜大學後未能延續 Flash 相關程式開發
-
-
-
-大學時期 @ Campus
------
-> 學習團隊合作，共同解決問題的能力
-
-- 基服社幹部 (社資訊)
-- 程式設計研討專題
-- 嵌入式系統 / 程式語言課程助教
-
-Note:
-- 動態網頁設計 PHP / MySQL
-- 整理社團文件
-- ACM (Association for Computing Machinery) 競賽題目練習
-- 透過教學與分享，能夠讓自己學得更多
-
-
-教育部六大學習網
------
-> 了解 Web 前端與後端的差異
-> <br/>
-> 架設 Linux server
-
-- Javascript / jQuery
-- PHP
-- MySQL
-- Apache
-
-Note:
-- 提供入口網站與搜尋介面給教師，找尋與分享教學資源
-- 整理各大學習網資料
-- 鳥哥的 Linux 私房菜 (web, ftp, samba, vpn, iptable, NAT)
-
-
-智慧型機器玩偶開發平台
------
-> 實現軟硬體整合
-
-- Openmoko 手機
-- QT for Embedded Linux
-
-Note:
-- 結合所學實現軟硬體整合
-- [Openmoko][OpenmokoWiki] 軟硬體開放原始碼手機 (2007 ~ 2011)
-- 暴力鬧鐘
-
-[OpenmokoWiki]: http://wiki.openmoko.org/wiki/Main_Page
-
-
-智慧型機器玩偶開發平台
------
-以時間軸為主的介面
-
-<video data-autoplay src="./robot.mp4"></video>
-
-Note:
-透過 web 介面將指令傳送給機器人 (long-polling)
-
-
-
-社會新鮮人 @ D-Link
------
-> 未來的工作內容
-> <br/>
-> 很難剛好吻合校園所學的東西
-> <br/>
-> by 校園演講者
-
-Note:
-- 技術日新月異，學會解決問題的能力，加強自我學習的能力
-- 老師只能帶領入門
+- RequireJS implements the AMD API
+- Browserify mplements the CommonJS API
+- Backbone.js / AngularJS / react.js
 
 
 雲端服務入口網
 -----
-> 五人以上團隊一同維護專案
+> 五人以上團隊
 
 https://tw.mydlink.com
 
 - 整合雲監控，雲儲存，雲路由等設備
-- Single Page Application (SPA)
 
 Note:
 - 前三年主要負責的專案
+
+
+客戶端應用開發部 @ D-Link
+-----
+- Shipping Report Utility
+- Online Steup Wizard
+- Open API (Test-driven development)
+
+Note:
 - Online Steup Wizard (QUnit)
 - Open API (PHPUnit)
-- Symfony MVC Framework / jQuery / RequireJS / Backbone.js
 
 
 2013 YAHOO! HACK TAIWAN
@@ -155,17 +70,21 @@ http://date4fun.frb.tw
 
 Note:
 - 這個 App 以約會卡的方式，呈現給使用者推薦的約會行程
-- 首次受邀參與四人團隊競賽
 - CodeIgniter PHP Framework + Node.js
 
 
 
-跨部門支援 @ D-Link
+雲端平台設備開發部 @ D-Link
 -----
 > 研發替代役期滿
 
+- Universal Media Player (Browser plugin)
+- Chrome Apps
+- RESTful web service
+
 Note:
 - 解決 Portal 現存問題
+- FireBreath framework in C/C++
 
 
 Universal Media Player
@@ -192,12 +111,8 @@ Note:
 
 重回學習環境 @ AlphaCamp
 -----
-- 了解新創公司的文化
-- 準備好再出發
 
 Note:
-- 不莽撞選擇公司
-- 雖然選擇 iOS 課程，並不表示放棄 web
 - [Treehouse](https://teamtreehouse.com/tlkuo) 學習紀錄
 - [Code School](https://www.codeschool.com/users/1969044) 學習紀錄
 
@@ -261,6 +176,7 @@ https://itunes.apple.com/app/sharead/id1103231506
 - iOS App
 - Backend API
 - 書籍資料爬蟲
+- AWS EC2 / RDS
 
 Note:
 - 這是一個提倡閱讀的平台，大家可以透過這個平台快速開店，分享家裡的書籍
@@ -288,14 +204,11 @@ Note:
 About Me
 -----
 > 站穩腳步，蹲馬步
-> <br/>
-> by Frank Chen
 
 - 沒把握過去所學完全符合需求
 - 有把握以最快的速度跟上腳步
 
 Note:
-- Frank Chen 前 Yahoo! 奇摩董事總經理
 - Javascript Functional Scope
 - Javascript Hoisting
 
